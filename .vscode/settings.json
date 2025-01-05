@@ -24,5 +24,8 @@
   },
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "[astro]": {
+    "editor.defaultFormatter": "biomejs.biome"
   }
 }
