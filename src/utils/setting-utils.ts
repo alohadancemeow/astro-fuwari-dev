@@ -4,7 +4,7 @@ import {
   DARK_MODE,
   DEFAULT_THEME,
   LIGHT_MODE,
-} from "@constants/constants.ts";
+} from "@constants/constants";
 
 export function getDefaultHue(): number {
   const fallback = "250";
